@@ -56,3 +56,10 @@ Note: Drag and drop is a bit more advanced than the others: it's not actually a 
 **Follow these steps for completing your project.**
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[emily seibert](https://youtu.be/FhozK2bwTV8)
+[dan frehner](https://youtu.be/Yar3Llxhifs)
+[jason maurer](https://youtu.be/toRprieUqqc)
+[josh knell](https://youtu.be/rfy9ULTXK-4)
